@@ -1,11 +1,16 @@
 // FPS_Game.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+
+// Includes & Header files 
 
 #include <iostream>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    // Create a menu
+
+
+    // Implementation of the Game 
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
