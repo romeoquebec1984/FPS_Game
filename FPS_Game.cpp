@@ -2,11 +2,18 @@
 
 // Includes & Header files 
 
-#include <iostream>
+// Includes
+# include <iostream>
+# include <cmath>
+# include <string>
+# include <iomanip>
+# include "Player.h"
 
 int main()
 {
+
     // Create a menu
+
 
 
     // Implementation of the Game 
